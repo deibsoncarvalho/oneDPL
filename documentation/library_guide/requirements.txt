@@ -7,3 +7,4 @@ sphinx-intl==2.0.0
 sphinx-tabs
 sphinx-prompt
 sphinx_substitution_extensions
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
